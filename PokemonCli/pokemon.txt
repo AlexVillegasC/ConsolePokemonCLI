@@ -1,0 +1,10 @@
+1,Pikachu,100,25,55
+2,Charizard,150,36,84
+3,Blastoise,140,36,83
+4,Venusaur,130,36,82
+5,Alakazam,90,36,50
+6,Gengar,100,36,65
+7,Machamp,160,36,130
+8,Golem,120,36,120
+9,Lapras,200,36,85
+10,Dragonite,170,36,134
